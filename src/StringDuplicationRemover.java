@@ -5,7 +5,7 @@ public class StringDuplicationRemover {
     public static void main (String[]args){
         
         //Declaration of variable
-        String sample1 = "a,b,c,d,e,f,a,d";
+        String sample1 = "a,b,c,e,e,f,a,d";
         String sample2 = "ab,cd,ab,ef,gh,cd";
         
         //call the method
